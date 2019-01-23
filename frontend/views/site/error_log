@@ -1,0 +1,4 @@
+[23-Jan-2019 10:44:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/aleksan6/public_html/frontend/views/site/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/aleksan6/public_html/frontend/views/site/index.php on line 5
